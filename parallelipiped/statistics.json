@@ -1,10 +1,10 @@
 {
-  "avg_diag": 241.94767596965377,
-  "avg_volume": 13538.25,
-  "avg_surface_area": 7846.0,
-  "avg_alpha": 708.1266903395011,
-  "avg_beta": 722.6627231945552,
-  "avg_gamma": 693.7376001779688,
-  "avg_radius_described_sphere": 120.97383798482689,
-  "avg_volume_described_sphere": 58161.67942856987
+  "avg_diag": 19.3558140775723,
+  "avg_volume": 1083.06,
+  "avg_surface_area": 627.68,
+  "avg_alpha": 56.65013522716009,
+  "avg_beta": 57.81301785556441,
+  "avg_gamma": 55.4990080142375,
+  "avg_radius_described_sphere": 9.67790703878615,
+  "avg_volume_described_sphere": 4652.9343542855895
 }
