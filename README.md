@@ -1,2 +1,2 @@
 # AI_DS_Cramer
-Some tasks from DS Pro math courses
+There are completed tasks on python (including numpy and pandas) from DS Pro math courses.
